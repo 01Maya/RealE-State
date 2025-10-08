@@ -34,7 +34,7 @@ It showcases luxury properties, featured categories, testimonials, and a smooth 
 
 ## ScreenShot
 
-![RealEstate Landing Page](./public/hero.png)
+![Image](https://github.com/user-attachments/assets/e58ee475-891f-48fd-88f8-227dee287d5e)
 
 ---
 
