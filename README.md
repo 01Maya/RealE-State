@@ -44,7 +44,7 @@ https://real-e-state-sigma.vercel.app/
   1. git clone https://github.com/yourusername/realestate-landing.git
   2. cd realestate-landing
   3. npm install
-npm run dev
+  4. npm run dev
 ```
 
 Then open your browser and go to **[http://localhost:3000](http://localhost:3000)**
