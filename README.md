@@ -41,8 +41,8 @@ https://real-e-state-sigma.vercel.app/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/realestate-landing.git
-cd realestate-landing
+  1. git clone https://github.com/yourusername/realestate-landing.git
+  2. cd realestate-landing
 npm install
 npm run dev
 ```
