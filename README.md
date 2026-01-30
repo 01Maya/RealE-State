@@ -64,3 +64,5 @@ npx shadcn@latest add button card input
 ---
 
 ## Find your Happy Place! 🏡
+
+---
