@@ -1,3 +1,5 @@
+---
+
 # 🏡 RealEstate – Modern Property Landing Page
 
 A sleek, responsive, and professional real estate landing page built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **shadcn/ui**.
