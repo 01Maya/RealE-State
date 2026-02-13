@@ -59,7 +59,7 @@ Then open your browser and go to **[http://localhost:3000](http://localhost:3000
 
 ```bash
 npm install framer-motion react-intersection-observer
-npx shadcn@latest init
+2. npx shadcn@latest init
 3. npx shadcn@latest add button card input
 ```
 
