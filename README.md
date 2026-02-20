@@ -65,6 +65,6 @@ https://real-e-state-sigma.vercel.app/
 
 ---
 
-## Find your Happy Place! 🏡
+## ✨ Find your Happy Place! 🏡
 
 ---
