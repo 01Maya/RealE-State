@@ -51,7 +51,7 @@ https://real-e-state-sigma.vercel.app/
   4. npm run dev
 ```
 
-Then open your browser and go to **[http://localhost:3000](http://localhost:3000)**
+  Then open your browser and go to **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
