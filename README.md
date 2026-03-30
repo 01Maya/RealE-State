@@ -20,7 +20,7 @@ It showcases luxury properties, featured categories, testimonials, and a smooth 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ⚜️
 
 * **Framework:** Next.js 15
 * **UI Library:** shadcn/ui
