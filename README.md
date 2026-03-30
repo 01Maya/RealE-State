@@ -8,7 +8,7 @@ It showcases luxury properties, featured categories, testimonials, and a smooth 
 
 ---
 
-## 🚀 Features
+## 🚀 Features 🪄
 
 * 🏠 Hero section with full-screen background image
 * 🔍 Search bar with smooth animations
